@@ -1,0 +1,68 @@
+{
+  "experiments": [
+    {
+      "name": "Baseline (Frozen ResNet-50)",
+      "fine_tuned": "No",
+      "color_aug": "No",
+      "total_params": 23508032,
+      "trainable_params": 0,
+      "training_time_s": 0.0,
+      "best_epoch": 0,
+      "best_val_mAP": 0.0,
+      "primary_r1": 0.75,
+      "primary_mAP": 0.8581349206349207,
+      "primary_roc_auc": 0.9922550703673568,
+      "secondary_r1": 0.7142857142857143,
+      "secondary_mAP": 0.816602236269891,
+      "secondary_roc_auc": 0.988575089270581
+    },
+    {
+      "name": "Experiment A (Frozen Backbone + SupCon)",
+      "fine_tuned": "No",
+      "color_aug": "Yes",
+      "total_params": 24689472,
+      "trainable_params": 1181440,
+      "training_time_s": 59.52,
+      "best_epoch": 2,
+      "best_val_mAP": 0.9333,
+      "primary_r1": 0.875,
+      "primary_mAP": 0.8310515873015873,
+      "primary_roc_auc": 0.9696229997287767,
+      "secondary_r1": 0.8214285714285714,
+      "secondary_mAP": 0.8234653385163588,
+      "secondary_roc_auc": 0.9740160126860462
+    },
+    {
+      "name": "Experiment B (Fine-Tuned w/o Color Aug)",
+      "fine_tuned": "Yes (layer4)",
+      "color_aug": "No",
+      "total_params": 24689472,
+      "trainable_params": 1181440,
+      "training_time_s": 54.77,
+      "best_epoch": 7,
+      "best_val_mAP": 0.927,
+      "primary_r1": 0.75,
+      "primary_mAP": 0.8240575396825397,
+      "primary_roc_auc": 0.9791459482265015,
+      "secondary_r1": 0.8214285714285714,
+      "secondary_mAP": 0.8257837643406155,
+      "secondary_roc_auc": 0.9763745371288053
+    },
+    {
+      "name": "Experiment C (Full Color-Invariant Model)",
+      "fine_tuned": "Yes (layer4)",
+      "color_aug": "Yes",
+      "total_params": 24689472,
+      "trainable_params": 1181440,
+      "training_time_s": 59.3,
+      "best_epoch": 2,
+      "best_val_mAP": 0.9333333333333333,
+      "primary_r1": 0.875,
+      "primary_mAP": 0.8310515873015873,
+      "primary_roc_auc": 0.9696229997287767,
+      "secondary_r1": 0.8214285714285714,
+      "secondary_mAP": 0.8234653385163588,
+      "secondary_roc_auc": 0.9740160126860462
+    }
+  ]
+}

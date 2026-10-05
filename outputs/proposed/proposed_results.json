@@ -1,0 +1,272 @@
+{
+  "embedding_dimension": 256,
+  "model_architecture": "ColorInvariantResNet50 (SupCon + Projection Head + Color Jitter/Grayscale)",
+  "hyperparameters": {
+    "epochs": 35,
+    "batch_size": 16,
+    "lr_backbone": 1.5e-05,
+    "lr_head": 0.0003,
+    "temperature": 0.07,
+    "freeze_backbone": false,
+    "unfreeze_from_layer": "layer4"
+  },
+  "batch_sampler_statistics": {
+    "total_batches": 7,
+    "total_training_designs": 60,
+    "multi_image_designs": 16,
+    "singleton_designs": 44,
+    "avg_positive_pairs_per_batch": 3.57,
+    "pct_batches_with_at_least_one_positive": 100.0
+  },
+  "operating_verification_threshold": 0.64,
+  "primary_protocol_metrics": {
+    "retrieval": {
+      "recall_at_1": 0.875,
+      "recall_at_5": 1.0,
+      "recall_at_10": 1.0,
+      "mAP": 0.8310515873015873,
+      "num_eval_queries": 8
+    },
+    "verification": {
+      "roc_auc": 0.9696229997287767,
+      "accuracy": 0.9506369426751592,
+      "precision": 0.2839506172839506,
+      "recall": 0.8518518518518519,
+      "f1": 0.42592592592592593,
+      "operating_threshold": 0.64,
+      "pos_pairs_count": 27,
+      "neg_pairs_count": 1229
+    }
+  },
+  "secondary_protocol_metrics": {
+    "retrieval": {
+      "recall_at_1": 0.8214285714285714,
+      "recall_at_5": 1.0,
+      "recall_at_10": 1.0,
+      "mAP": 0.8234653385163588,
+      "num_eval_queries": 28
+    },
+    "verification": {
+      "roc_auc": 0.9740160126860462,
+      "accuracy": 0.9666319082377477,
+      "precision": 0.4074074074074074,
+      "recall": 0.8279569892473119,
+      "f1": 0.5460992907801419,
+      "operating_threshold": 0.64,
+      "pos_pairs_count": 93,
+      "neg_pairs_count": 3743
+    }
+  },
+  "qualitative_examples": [
+    {
+      "query_index": 1,
+      "query_image_path": "sarees_dataset/handloom_sarees/h_img_132981.jpg",
+      "query_design_id": "Design_002",
+      "top5_retrievals": [
+        {
+          "rank": 1,
+          "gallery_image_path": "sarees_dataset/handloom_sarees/img_960789.jpg",
+          "gallery_design_id": "Design_002",
+          "similarity_score": 0.8817153573036194,
+          "label": "SAME DESIGN"
+        },
+        {
+          "rank": 2,
+          "gallery_image_path": "sarees_dataset/handloom_sarees/img_354459.jpg",
+          "gallery_design_id": "Design_002",
+          "similarity_score": 0.8266997337341309,
+          "label": "SAME DESIGN"
+        },
+        {
+          "rank": 3,
+          "gallery_image_path": "sarees_dataset/handloom_sarees/img_884336.jpg",
+          "gallery_design_id": "Design_002",
+          "similarity_score": 0.7886962890625,
+          "label": "SAME DESIGN"
+        },
+        {
+          "rank": 4,
+          "gallery_image_path": "sarees_dataset/handloom_sarees/img_447852.jpg",
+          "gallery_design_id": "Design_002",
+          "similarity_score": 0.7405638694763184,
+          "label": "SAME DESIGN"
+        },
+        {
+          "rank": 5,
+          "gallery_image_path": "sarees_dataset/handloom_sarees/img_417511.jpg",
+          "gallery_design_id": "Design_005",
+          "similarity_score": 0.7387695908546448,
+          "label": "DIFFERENT DESIGN"
+        }
+      ]
+    },
+    {
+      "query_index": 2,
+      "query_image_path": "sarees_dataset/handloom_sarees/h_img_34590.jpg",
+      "query_design_id": "Design_003",
+      "top5_retrievals": [
+        {
+          "rank": 1,
+          "gallery_image_path": "sarees_dataset/handloom_sarees/img_445986.jpg",
+          "gallery_design_id": "Design_003",
+          "similarity_score": 0.7891415953636169,
+          "label": "SAME DESIGN"
+        },
+        {
+          "rank": 2,
+          "gallery_image_path": "sarees_dataset/handloom_sarees/img_399807.jpg",
+          "gallery_design_id": "Design_003",
+          "similarity_score": 0.7188662886619568,
+          "label": "SAME DESIGN"
+        },
+        {
+          "rank": 3,
+          "gallery_image_path": "sarees_dataset/handloom_sarees/img_748887.jpg",
+          "gallery_design_id": "Design_003",
+          "similarity_score": 0.7143101692199707,
+          "label": "SAME DESIGN"
+        },
+        {
+          "rank": 4,
+          "gallery_image_path": "sarees_dataset/handloom_sarees/img_927463.jpg",
+          "gallery_design_id": "Design_013",
+          "similarity_score": 0.6406792998313904,
+          "label": "DIFFERENT DESIGN"
+        },
+        {
+          "rank": 5,
+          "gallery_image_path": "sarees_dataset/handloom_sarees/img_744464.jpg",
+          "gallery_design_id": "Design_003",
+          "similarity_score": 0.6364136934280396,
+          "label": "SAME DESIGN"
+        }
+      ]
+    },
+    {
+      "query_index": 3,
+      "query_image_path": "sarees_dataset/handloom_sarees/h_img_44440.jpg",
+      "query_design_id": "Design_005",
+      "top5_retrievals": [
+        {
+          "rank": 1,
+          "gallery_image_path": "sarees_dataset/handloom_sarees/img_417511.jpg",
+          "gallery_design_id": "Design_005",
+          "similarity_score": 0.7838545441627502,
+          "label": "SAME DESIGN"
+        },
+        {
+          "rank": 2,
+          "gallery_image_path": "sarees_dataset/handloom_sarees/img_82256.jpg",
+          "gallery_design_id": "Design_005",
+          "similarity_score": 0.7818757891654968,
+          "label": "SAME DESIGN"
+        },
+        {
+          "rank": 3,
+          "gallery_image_path": "sarees_dataset/handloom_sarees/img_65263.jpg",
+          "gallery_design_id": "Design_005",
+          "similarity_score": 0.7701971530914307,
+          "label": "SAME DESIGN"
+        },
+        {
+          "rank": 4,
+          "gallery_image_path": "sarees_dataset/handloom_sarees/img_678193.jpg",
+          "gallery_design_id": "Design_005",
+          "similarity_score": 0.7565930485725403,
+          "label": "SAME DESIGN"
+        },
+        {
+          "rank": 5,
+          "gallery_image_path": "sarees_dataset/handloom_sarees/img_369469.jpg",
+          "gallery_design_id": "Design_015",
+          "similarity_score": 0.6483191251754761,
+          "label": "DIFFERENT DESIGN"
+        }
+      ]
+    },
+    {
+      "query_index": 4,
+      "query_image_path": "sarees_dataset/handloom_sarees/img_26850.jpg",
+      "query_design_id": "Design_014",
+      "top5_retrievals": [
+        {
+          "rank": 1,
+          "gallery_image_path": "sarees_dataset/handloom_sarees/img_541390.jpg",
+          "gallery_design_id": "Design_014",
+          "similarity_score": 0.9037894010543823,
+          "label": "SAME DESIGN"
+        },
+        {
+          "rank": 2,
+          "gallery_image_path": "sarees_dataset/handloom_sarees/img_635895.jpg",
+          "gallery_design_id": "Design_014",
+          "similarity_score": 0.8862585425376892,
+          "label": "SAME DESIGN"
+        },
+        {
+          "rank": 3,
+          "gallery_image_path": "sarees_dataset/handloom_sarees/img_834923.jpg",
+          "gallery_design_id": "Design_014",
+          "similarity_score": 0.8758900165557861,
+          "label": "SAME DESIGN"
+        },
+        {
+          "rank": 4,
+          "gallery_image_path": "sarees_dataset/handloom_sarees/img_341437.jpg",
+          "gallery_design_id": "Design_014",
+          "similarity_score": 0.8486513495445251,
+          "label": "SAME DESIGN"
+        },
+        {
+          "rank": 5,
+          "gallery_image_path": "sarees_dataset/handloom_sarees/img_142355.jpg",
+          "gallery_design_id": "Design_030",
+          "similarity_score": 0.6380176544189453,
+          "label": "DIFFERENT DESIGN"
+        }
+      ]
+    },
+    {
+      "query_index": 5,
+      "query_image_path": "sarees_dataset/handloom_sarees/img_337700.jpg",
+      "query_design_id": "Design_015",
+      "top5_retrievals": [
+        {
+          "rank": 1,
+          "gallery_image_path": "sarees_dataset/handloom_sarees/img_540343.jpg",
+          "gallery_design_id": "Design_015",
+          "similarity_score": 0.8848722577095032,
+          "label": "SAME DESIGN"
+        },
+        {
+          "rank": 2,
+          "gallery_image_path": "sarees_dataset/handloom_sarees/img_642784.jpg",
+          "gallery_design_id": "Design_015",
+          "similarity_score": 0.8648555278778076,
+          "label": "SAME DESIGN"
+        },
+        {
+          "rank": 3,
+          "gallery_image_path": "sarees_dataset/handloom_sarees/img_61951.jpg",
+          "gallery_design_id": "Design_015",
+          "similarity_score": 0.8578155040740967,
+          "label": "SAME DESIGN"
+        },
+        {
+          "rank": 4,
+          "gallery_image_path": "sarees_dataset/handloom_sarees/img_369469.jpg",
+          "gallery_design_id": "Design_015",
+          "similarity_score": 0.8433962464332581,
+          "label": "SAME DESIGN"
+        },
+        {
+          "rank": 5,
+          "gallery_image_path": "sarees_dataset/handloom_sarees/img_978752.jpg",
+          "gallery_design_id": "Design_011",
+          "similarity_score": 0.7832745909690857,
+          "label": "DIFFERENT DESIGN"
+        }
+      ]
+    }
+  ]
+}

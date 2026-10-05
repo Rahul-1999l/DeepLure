@@ -1,0 +1,53 @@
+{
+  "total_images": 165,
+  "total_designs": 72,
+  "multi_image_designs": 28,
+  "singleton_designs": 44,
+  "images_in_multi_image_designs": 121,
+  "class_size_distribution": {
+    "8": 1,
+    "5": 16,
+    "4": 3,
+    "3": 5,
+    "2": 3,
+    "1": 44
+  },
+  "image_dimension_statistics": {
+    "unique_resolution_count": 78,
+    "most_common_resolutions": [
+      {
+        "width": 1511,
+        "height": 1512,
+        "count": 6
+      },
+      {
+        "width": 641,
+        "height": 641,
+        "count": 6
+      },
+      {
+        "width": 730,
+        "height": 730,
+        "count": 5
+      },
+      {
+        "width": 610,
+        "height": 610,
+        "count": 5
+      },
+      {
+        "width": 662,
+        "height": 662,
+        "count": 5
+      }
+    ],
+    "min_width": 226,
+    "max_width": 1512,
+    "min_height": 226,
+    "max_height": 1512,
+    "aspect_ratios": {
+      "1.0": 160,
+      "0.75": 5
+    }
+  }
+}

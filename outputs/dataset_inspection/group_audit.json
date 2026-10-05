@@ -1,0 +1,1891 @@
+{
+  "Design_001": {
+    "design_id": "Design_001",
+    "image_count": 8,
+    "is_singleton": false,
+    "images": [
+      "img_284975.jpg",
+      "img_37489.jpg",
+      "img_386972.jpg",
+      "img_519993.jpg",
+      "img_524137.jpg",
+      "img_602896.jpg",
+      "img_987571.jpg",
+      "img_987632.jpg"
+    ],
+    "pairwise_sift_matches": [
+      {
+        "img1": "img_284975.jpg",
+        "img2": "img_37489.jpg",
+        "sift_matches": 47
+      },
+      {
+        "img1": "img_284975.jpg",
+        "img2": "img_386972.jpg",
+        "sift_matches": 26
+      },
+      {
+        "img1": "img_284975.jpg",
+        "img2": "img_519993.jpg",
+        "sift_matches": 26
+      },
+      {
+        "img1": "img_284975.jpg",
+        "img2": "img_524137.jpg",
+        "sift_matches": 33
+      },
+      {
+        "img1": "img_284975.jpg",
+        "img2": "img_602896.jpg",
+        "sift_matches": 21
+      },
+      {
+        "img1": "img_284975.jpg",
+        "img2": "img_987571.jpg",
+        "sift_matches": 96
+      },
+      {
+        "img1": "img_284975.jpg",
+        "img2": "img_987632.jpg",
+        "sift_matches": 48
+      },
+      {
+        "img1": "img_37489.jpg",
+        "img2": "img_386972.jpg",
+        "sift_matches": 44
+      },
+      {
+        "img1": "img_37489.jpg",
+        "img2": "img_519993.jpg",
+        "sift_matches": 30
+      },
+      {
+        "img1": "img_37489.jpg",
+        "img2": "img_524137.jpg",
+        "sift_matches": 52
+      },
+      {
+        "img1": "img_37489.jpg",
+        "img2": "img_602896.jpg",
+        "sift_matches": 41
+      },
+      {
+        "img1": "img_37489.jpg",
+        "img2": "img_987571.jpg",
+        "sift_matches": 79
+      },
+      {
+        "img1": "img_37489.jpg",
+        "img2": "img_987632.jpg",
+        "sift_matches": 83
+      },
+      {
+        "img1": "img_386972.jpg",
+        "img2": "img_519993.jpg",
+        "sift_matches": 32
+      },
+      {
+        "img1": "img_386972.jpg",
+        "img2": "img_524137.jpg",
+        "sift_matches": 33
+      },
+      {
+        "img1": "img_386972.jpg",
+        "img2": "img_602896.jpg",
+        "sift_matches": 73
+      },
+      {
+        "img1": "img_386972.jpg",
+        "img2": "img_987571.jpg",
+        "sift_matches": 31
+      },
+      {
+        "img1": "img_386972.jpg",
+        "img2": "img_987632.jpg",
+        "sift_matches": 39
+      },
+      {
+        "img1": "img_519993.jpg",
+        "img2": "img_524137.jpg",
+        "sift_matches": 23
+      },
+      {
+        "img1": "img_519993.jpg",
+        "img2": "img_602896.jpg",
+        "sift_matches": 22
+      },
+      {
+        "img1": "img_519993.jpg",
+        "img2": "img_987571.jpg",
+        "sift_matches": 31
+      },
+      {
+        "img1": "img_519993.jpg",
+        "img2": "img_987632.jpg",
+        "sift_matches": 37
+      },
+      {
+        "img1": "img_524137.jpg",
+        "img2": "img_602896.jpg",
+        "sift_matches": 17
+      },
+      {
+        "img1": "img_524137.jpg",
+        "img2": "img_987571.jpg",
+        "sift_matches": 172
+      },
+      {
+        "img1": "img_524137.jpg",
+        "img2": "img_987632.jpg",
+        "sift_matches": 48
+      },
+      {
+        "img1": "img_602896.jpg",
+        "img2": "img_987571.jpg",
+        "sift_matches": 30
+      },
+      {
+        "img1": "img_602896.jpg",
+        "img2": "img_987632.jpg",
+        "sift_matches": 33
+      },
+      {
+        "img1": "img_987571.jpg",
+        "img2": "img_987632.jpg",
+        "sift_matches": 225
+      }
+    ]
+  },
+  "Design_002": {
+    "design_id": "Design_002",
+    "image_count": 5,
+    "is_singleton": false,
+    "images": [
+      "h_img_132981.jpg",
+      "img_354459.jpg",
+      "img_447852.jpg",
+      "img_884336.jpg",
+      "img_960789.jpg"
+    ],
+    "pairwise_sift_matches": [
+      {
+        "img1": "h_img_132981.jpg",
+        "img2": "img_354459.jpg",
+        "sift_matches": 53
+      },
+      {
+        "img1": "h_img_132981.jpg",
+        "img2": "img_447852.jpg",
+        "sift_matches": 224
+      },
+      {
+        "img1": "h_img_132981.jpg",
+        "img2": "img_884336.jpg",
+        "sift_matches": 58
+      },
+      {
+        "img1": "h_img_132981.jpg",
+        "img2": "img_960789.jpg",
+        "sift_matches": 62
+      },
+      {
+        "img1": "img_354459.jpg",
+        "img2": "img_447852.jpg",
+        "sift_matches": 87
+      },
+      {
+        "img1": "img_354459.jpg",
+        "img2": "img_884336.jpg",
+        "sift_matches": 129
+      },
+      {
+        "img1": "img_354459.jpg",
+        "img2": "img_960789.jpg",
+        "sift_matches": 71
+      },
+      {
+        "img1": "img_447852.jpg",
+        "img2": "img_884336.jpg",
+        "sift_matches": 68
+      },
+      {
+        "img1": "img_447852.jpg",
+        "img2": "img_960789.jpg",
+        "sift_matches": 189
+      },
+      {
+        "img1": "img_884336.jpg",
+        "img2": "img_960789.jpg",
+        "sift_matches": 76
+      }
+    ]
+  },
+  "Design_003": {
+    "design_id": "Design_003",
+    "image_count": 5,
+    "is_singleton": false,
+    "images": [
+      "h_img_34590.jpg",
+      "img_399807.jpg",
+      "img_445986.jpg",
+      "img_744464.jpg",
+      "img_748887.jpg"
+    ],
+    "pairwise_sift_matches": [
+      {
+        "img1": "h_img_34590.jpg",
+        "img2": "img_399807.jpg",
+        "sift_matches": 163
+      },
+      {
+        "img1": "h_img_34590.jpg",
+        "img2": "img_445986.jpg",
+        "sift_matches": 152
+      },
+      {
+        "img1": "h_img_34590.jpg",
+        "img2": "img_744464.jpg",
+        "sift_matches": 170
+      },
+      {
+        "img1": "h_img_34590.jpg",
+        "img2": "img_748887.jpg",
+        "sift_matches": 136
+      },
+      {
+        "img1": "img_399807.jpg",
+        "img2": "img_445986.jpg",
+        "sift_matches": 76
+      },
+      {
+        "img1": "img_399807.jpg",
+        "img2": "img_744464.jpg",
+        "sift_matches": 85
+      },
+      {
+        "img1": "img_399807.jpg",
+        "img2": "img_748887.jpg",
+        "sift_matches": 80
+      },
+      {
+        "img1": "img_445986.jpg",
+        "img2": "img_744464.jpg",
+        "sift_matches": 115
+      },
+      {
+        "img1": "img_445986.jpg",
+        "img2": "img_748887.jpg",
+        "sift_matches": 134
+      },
+      {
+        "img1": "img_744464.jpg",
+        "img2": "img_748887.jpg",
+        "sift_matches": 135
+      }
+    ]
+  },
+  "Design_004": {
+    "design_id": "Design_004",
+    "image_count": 5,
+    "is_singleton": false,
+    "images": [
+      "h_img_35259.jpg",
+      "img_489839.jpg",
+      "img_694883.jpg",
+      "img_789127.jpg",
+      "img_90832.jpg"
+    ],
+    "pairwise_sift_matches": [
+      {
+        "img1": "h_img_35259.jpg",
+        "img2": "img_489839.jpg",
+        "sift_matches": 76
+      },
+      {
+        "img1": "h_img_35259.jpg",
+        "img2": "img_694883.jpg",
+        "sift_matches": 87
+      },
+      {
+        "img1": "h_img_35259.jpg",
+        "img2": "img_789127.jpg",
+        "sift_matches": 122
+      },
+      {
+        "img1": "h_img_35259.jpg",
+        "img2": "img_90832.jpg",
+        "sift_matches": 121
+      },
+      {
+        "img1": "img_489839.jpg",
+        "img2": "img_694883.jpg",
+        "sift_matches": 0
+      },
+      {
+        "img1": "img_489839.jpg",
+        "img2": "img_789127.jpg",
+        "sift_matches": 0
+      },
+      {
+        "img1": "img_489839.jpg",
+        "img2": "img_90832.jpg",
+        "sift_matches": 1
+      },
+      {
+        "img1": "img_694883.jpg",
+        "img2": "img_789127.jpg",
+        "sift_matches": 0
+      },
+      {
+        "img1": "img_694883.jpg",
+        "img2": "img_90832.jpg",
+        "sift_matches": 0
+      },
+      {
+        "img1": "img_789127.jpg",
+        "img2": "img_90832.jpg",
+        "sift_matches": 0
+      }
+    ]
+  },
+  "Design_005": {
+    "design_id": "Design_005",
+    "image_count": 5,
+    "is_singleton": false,
+    "images": [
+      "h_img_44440.jpg",
+      "img_417511.jpg",
+      "img_65263.jpg",
+      "img_678193.jpg",
+      "img_82256.jpg"
+    ],
+    "pairwise_sift_matches": [
+      {
+        "img1": "h_img_44440.jpg",
+        "img2": "img_417511.jpg",
+        "sift_matches": 208
+      },
+      {
+        "img1": "h_img_44440.jpg",
+        "img2": "img_65263.jpg",
+        "sift_matches": 158
+      },
+      {
+        "img1": "h_img_44440.jpg",
+        "img2": "img_678193.jpg",
+        "sift_matches": 86
+      },
+      {
+        "img1": "h_img_44440.jpg",
+        "img2": "img_82256.jpg",
+        "sift_matches": 218
+      },
+      {
+        "img1": "img_417511.jpg",
+        "img2": "img_65263.jpg",
+        "sift_matches": 65
+      },
+      {
+        "img1": "img_417511.jpg",
+        "img2": "img_678193.jpg",
+        "sift_matches": 60
+      },
+      {
+        "img1": "img_417511.jpg",
+        "img2": "img_82256.jpg",
+        "sift_matches": 72
+      },
+      {
+        "img1": "img_65263.jpg",
+        "img2": "img_678193.jpg",
+        "sift_matches": 83
+      },
+      {
+        "img1": "img_65263.jpg",
+        "img2": "img_82256.jpg",
+        "sift_matches": 79
+      },
+      {
+        "img1": "img_678193.jpg",
+        "img2": "img_82256.jpg",
+        "sift_matches": 55
+      }
+    ]
+  },
+  "Design_006": {
+    "design_id": "Design_006",
+    "image_count": 5,
+    "is_singleton": false,
+    "images": [
+      "h_img_76108.jpg",
+      "img_270633.jpg",
+      "img_667809.jpg",
+      "img_881252.jpg",
+      "img_915919.jpg"
+    ],
+    "pairwise_sift_matches": [
+      {
+        "img1": "h_img_76108.jpg",
+        "img2": "img_270633.jpg",
+        "sift_matches": 50
+      },
+      {
+        "img1": "h_img_76108.jpg",
+        "img2": "img_667809.jpg",
+        "sift_matches": 5
+      },
+      {
+        "img1": "h_img_76108.jpg",
+        "img2": "img_881252.jpg",
+        "sift_matches": 5
+      },
+      {
+        "img1": "h_img_76108.jpg",
+        "img2": "img_915919.jpg",
+        "sift_matches": 30
+      },
+      {
+        "img1": "img_270633.jpg",
+        "img2": "img_667809.jpg",
+        "sift_matches": 3
+      },
+      {
+        "img1": "img_270633.jpg",
+        "img2": "img_881252.jpg",
+        "sift_matches": 7
+      },
+      {
+        "img1": "img_270633.jpg",
+        "img2": "img_915919.jpg",
+        "sift_matches": 44
+      },
+      {
+        "img1": "img_667809.jpg",
+        "img2": "img_881252.jpg",
+        "sift_matches": 10
+      },
+      {
+        "img1": "img_667809.jpg",
+        "img2": "img_915919.jpg",
+        "sift_matches": 41
+      },
+      {
+        "img1": "img_881252.jpg",
+        "img2": "img_915919.jpg",
+        "sift_matches": 46
+      }
+    ]
+  },
+  "Design_007": {
+    "design_id": "Design_007",
+    "image_count": 5,
+    "is_singleton": false,
+    "images": [
+      "h_img_93057.jpg",
+      "img_277936.jpg",
+      "img_289910.jpg",
+      "img_475101.jpg",
+      "img_578936.jpg"
+    ],
+    "pairwise_sift_matches": [
+      {
+        "img1": "h_img_93057.jpg",
+        "img2": "img_277936.jpg",
+        "sift_matches": 0
+      },
+      {
+        "img1": "h_img_93057.jpg",
+        "img2": "img_289910.jpg",
+        "sift_matches": 74
+      },
+      {
+        "img1": "h_img_93057.jpg",
+        "img2": "img_475101.jpg",
+        "sift_matches": 2
+      },
+      {
+        "img1": "h_img_93057.jpg",
+        "img2": "img_578936.jpg",
+        "sift_matches": 0
+      },
+      {
+        "img1": "img_277936.jpg",
+        "img2": "img_289910.jpg",
+        "sift_matches": 50
+      },
+      {
+        "img1": "img_277936.jpg",
+        "img2": "img_475101.jpg",
+        "sift_matches": 0
+      },
+      {
+        "img1": "img_277936.jpg",
+        "img2": "img_578936.jpg",
+        "sift_matches": 0
+      },
+      {
+        "img1": "img_289910.jpg",
+        "img2": "img_475101.jpg",
+        "sift_matches": 176
+      },
+      {
+        "img1": "img_289910.jpg",
+        "img2": "img_578936.jpg",
+        "sift_matches": 99
+      },
+      {
+        "img1": "img_475101.jpg",
+        "img2": "img_578936.jpg",
+        "sift_matches": 0
+      }
+    ]
+  },
+  "Design_008": {
+    "design_id": "Design_008",
+    "image_count": 5,
+    "is_singleton": false,
+    "images": [
+      "img_10959.jpg",
+      "img_275183.jpg",
+      "img_40145.jpg",
+      "img_556574.jpg",
+      "img_7150.jpg"
+    ],
+    "pairwise_sift_matches": [
+      {
+        "img1": "img_10959.jpg",
+        "img2": "img_275183.jpg",
+        "sift_matches": 236
+      },
+      {
+        "img1": "img_10959.jpg",
+        "img2": "img_40145.jpg",
+        "sift_matches": 14
+      },
+      {
+        "img1": "img_10959.jpg",
+        "img2": "img_556574.jpg",
+        "sift_matches": 6
+      },
+      {
+        "img1": "img_10959.jpg",
+        "img2": "img_7150.jpg",
+        "sift_matches": 31
+      },
+      {
+        "img1": "img_275183.jpg",
+        "img2": "img_40145.jpg",
+        "sift_matches": 41
+      },
+      {
+        "img1": "img_275183.jpg",
+        "img2": "img_556574.jpg",
+        "sift_matches": 109
+      },
+      {
+        "img1": "img_275183.jpg",
+        "img2": "img_7150.jpg",
+        "sift_matches": 70
+      },
+      {
+        "img1": "img_40145.jpg",
+        "img2": "img_556574.jpg",
+        "sift_matches": 19
+      },
+      {
+        "img1": "img_40145.jpg",
+        "img2": "img_7150.jpg",
+        "sift_matches": 10
+      },
+      {
+        "img1": "img_556574.jpg",
+        "img2": "img_7150.jpg",
+        "sift_matches": 9
+      }
+    ]
+  },
+  "Design_009": {
+    "design_id": "Design_009",
+    "image_count": 5,
+    "is_singleton": false,
+    "images": [
+      "img_110820.jpg",
+      "img_385960.jpg",
+      "img_718326.jpg",
+      "img_874118.jpg",
+      "img_917853.jpg"
+    ],
+    "pairwise_sift_matches": [
+      {
+        "img1": "img_110820.jpg",
+        "img2": "img_385960.jpg",
+        "sift_matches": 21
+      },
+      {
+        "img1": "img_110820.jpg",
+        "img2": "img_718326.jpg",
+        "sift_matches": 10
+      },
+      {
+        "img1": "img_110820.jpg",
+        "img2": "img_874118.jpg",
+        "sift_matches": 46
+      },
+      {
+        "img1": "img_110820.jpg",
+        "img2": "img_917853.jpg",
+        "sift_matches": 9
+      },
+      {
+        "img1": "img_385960.jpg",
+        "img2": "img_718326.jpg",
+        "sift_matches": 21
+      },
+      {
+        "img1": "img_385960.jpg",
+        "img2": "img_874118.jpg",
+        "sift_matches": 136
+      },
+      {
+        "img1": "img_385960.jpg",
+        "img2": "img_917853.jpg",
+        "sift_matches": 31
+      },
+      {
+        "img1": "img_718326.jpg",
+        "img2": "img_874118.jpg",
+        "sift_matches": 84
+      },
+      {
+        "img1": "img_718326.jpg",
+        "img2": "img_917853.jpg",
+        "sift_matches": 77
+      },
+      {
+        "img1": "img_874118.jpg",
+        "img2": "img_917853.jpg",
+        "sift_matches": 144
+      }
+    ]
+  },
+  "Design_010": {
+    "design_id": "Design_010",
+    "image_count": 5,
+    "is_singleton": false,
+    "images": [
+      "img_115196.jpg",
+      "img_153688.jpg",
+      "img_246391.jpg",
+      "img_442389.jpg",
+      "img_741740.jpg"
+    ],
+    "pairwise_sift_matches": [
+      {
+        "img1": "img_115196.jpg",
+        "img2": "img_153688.jpg",
+        "sift_matches": 129
+      },
+      {
+        "img1": "img_115196.jpg",
+        "img2": "img_246391.jpg",
+        "sift_matches": 33
+      },
+      {
+        "img1": "img_115196.jpg",
+        "img2": "img_442389.jpg",
+        "sift_matches": 53
+      },
+      {
+        "img1": "img_115196.jpg",
+        "img2": "img_741740.jpg",
+        "sift_matches": 56
+      },
+      {
+        "img1": "img_153688.jpg",
+        "img2": "img_246391.jpg",
+        "sift_matches": 94
+      },
+      {
+        "img1": "img_153688.jpg",
+        "img2": "img_442389.jpg",
+        "sift_matches": 116
+      },
+      {
+        "img1": "img_153688.jpg",
+        "img2": "img_741740.jpg",
+        "sift_matches": 91
+      },
+      {
+        "img1": "img_246391.jpg",
+        "img2": "img_442389.jpg",
+        "sift_matches": 43
+      },
+      {
+        "img1": "img_246391.jpg",
+        "img2": "img_741740.jpg",
+        "sift_matches": 60
+      },
+      {
+        "img1": "img_442389.jpg",
+        "img2": "img_741740.jpg",
+        "sift_matches": 31
+      }
+    ]
+  },
+  "Design_011": {
+    "design_id": "Design_011",
+    "image_count": 5,
+    "is_singleton": false,
+    "images": [
+      "img_175884.jpg",
+      "img_339968.jpg",
+      "img_764354.jpg",
+      "img_961476.jpg",
+      "img_978752.jpg"
+    ],
+    "pairwise_sift_matches": [
+      {
+        "img1": "img_175884.jpg",
+        "img2": "img_339968.jpg",
+        "sift_matches": 39
+      },
+      {
+        "img1": "img_175884.jpg",
+        "img2": "img_764354.jpg",
+        "sift_matches": 47
+      },
+      {
+        "img1": "img_175884.jpg",
+        "img2": "img_961476.jpg",
+        "sift_matches": 58
+      },
+      {
+        "img1": "img_175884.jpg",
+        "img2": "img_978752.jpg",
+        "sift_matches": 163
+      },
+      {
+        "img1": "img_339968.jpg",
+        "img2": "img_764354.jpg",
+        "sift_matches": 51
+      },
+      {
+        "img1": "img_339968.jpg",
+        "img2": "img_961476.jpg",
+        "sift_matches": 44
+      },
+      {
+        "img1": "img_339968.jpg",
+        "img2": "img_978752.jpg",
+        "sift_matches": 215
+      },
+      {
+        "img1": "img_764354.jpg",
+        "img2": "img_961476.jpg",
+        "sift_matches": 18
+      },
+      {
+        "img1": "img_764354.jpg",
+        "img2": "img_978752.jpg",
+        "sift_matches": 85
+      },
+      {
+        "img1": "img_961476.jpg",
+        "img2": "img_978752.jpg",
+        "sift_matches": 115
+      }
+    ]
+  },
+  "Design_012": {
+    "design_id": "Design_012",
+    "image_count": 5,
+    "is_singleton": false,
+    "images": [
+      "img_221213.jpg",
+      "img_239226.jpg",
+      "img_364174.jpg",
+      "img_67123.jpg",
+      "img_927947.jpg"
+    ],
+    "pairwise_sift_matches": [
+      {
+        "img1": "img_221213.jpg",
+        "img2": "img_239226.jpg",
+        "sift_matches": 17
+      },
+      {
+        "img1": "img_221213.jpg",
+        "img2": "img_364174.jpg",
+        "sift_matches": 45
+      },
+      {
+        "img1": "img_221213.jpg",
+        "img2": "img_67123.jpg",
+        "sift_matches": 23
+      },
+      {
+        "img1": "img_221213.jpg",
+        "img2": "img_927947.jpg",
+        "sift_matches": 15
+      },
+      {
+        "img1": "img_239226.jpg",
+        "img2": "img_364174.jpg",
+        "sift_matches": 46
+      },
+      {
+        "img1": "img_239226.jpg",
+        "img2": "img_67123.jpg",
+        "sift_matches": 10
+      },
+      {
+        "img1": "img_239226.jpg",
+        "img2": "img_927947.jpg",
+        "sift_matches": 14
+      },
+      {
+        "img1": "img_364174.jpg",
+        "img2": "img_67123.jpg",
+        "sift_matches": 200
+      },
+      {
+        "img1": "img_364174.jpg",
+        "img2": "img_927947.jpg",
+        "sift_matches": 150
+      },
+      {
+        "img1": "img_67123.jpg",
+        "img2": "img_927947.jpg",
+        "sift_matches": 17
+      }
+    ]
+  },
+  "Design_013": {
+    "design_id": "Design_013",
+    "image_count": 5,
+    "is_singleton": false,
+    "images": [
+      "img_260919.jpg",
+      "img_429922.jpg",
+      "img_565213.jpg",
+      "img_927463.jpg",
+      "img_955789.jpg"
+    ],
+    "pairwise_sift_matches": [
+      {
+        "img1": "img_260919.jpg",
+        "img2": "img_429922.jpg",
+        "sift_matches": 140
+      },
+      {
+        "img1": "img_260919.jpg",
+        "img2": "img_565213.jpg",
+        "sift_matches": 27
+      },
+      {
+        "img1": "img_260919.jpg",
+        "img2": "img_927463.jpg",
+        "sift_matches": 6
+      },
+      {
+        "img1": "img_260919.jpg",
+        "img2": "img_955789.jpg",
+        "sift_matches": 3
+      },
+      {
+        "img1": "img_429922.jpg",
+        "img2": "img_565213.jpg",
+        "sift_matches": 140
+      },
+      {
+        "img1": "img_429922.jpg",
+        "img2": "img_927463.jpg",
+        "sift_matches": 121
+      },
+      {
+        "img1": "img_429922.jpg",
+        "img2": "img_955789.jpg",
+        "sift_matches": 77
+      },
+      {
+        "img1": "img_565213.jpg",
+        "img2": "img_927463.jpg",
+        "sift_matches": 10
+      },
+      {
+        "img1": "img_565213.jpg",
+        "img2": "img_955789.jpg",
+        "sift_matches": 5
+      },
+      {
+        "img1": "img_927463.jpg",
+        "img2": "img_955789.jpg",
+        "sift_matches": 28
+      }
+    ]
+  },
+  "Design_014": {
+    "design_id": "Design_014",
+    "image_count": 5,
+    "is_singleton": false,
+    "images": [
+      "img_26850.jpg",
+      "img_341437.jpg",
+      "img_541390.jpg",
+      "img_635895.jpg",
+      "img_834923.jpg"
+    ],
+    "pairwise_sift_matches": [
+      {
+        "img1": "img_26850.jpg",
+        "img2": "img_341437.jpg",
+        "sift_matches": 69
+      },
+      {
+        "img1": "img_26850.jpg",
+        "img2": "img_541390.jpg",
+        "sift_matches": 73
+      },
+      {
+        "img1": "img_26850.jpg",
+        "img2": "img_635895.jpg",
+        "sift_matches": 74
+      },
+      {
+        "img1": "img_26850.jpg",
+        "img2": "img_834923.jpg",
+        "sift_matches": 105
+      },
+      {
+        "img1": "img_341437.jpg",
+        "img2": "img_541390.jpg",
+        "sift_matches": 113
+      },
+      {
+        "img1": "img_341437.jpg",
+        "img2": "img_635895.jpg",
+        "sift_matches": 97
+      },
+      {
+        "img1": "img_341437.jpg",
+        "img2": "img_834923.jpg",
+        "sift_matches": 242
+      },
+      {
+        "img1": "img_541390.jpg",
+        "img2": "img_635895.jpg",
+        "sift_matches": 56
+      },
+      {
+        "img1": "img_541390.jpg",
+        "img2": "img_834923.jpg",
+        "sift_matches": 220
+      },
+      {
+        "img1": "img_635895.jpg",
+        "img2": "img_834923.jpg",
+        "sift_matches": 162
+      }
+    ]
+  },
+  "Design_015": {
+    "design_id": "Design_015",
+    "image_count": 5,
+    "is_singleton": false,
+    "images": [
+      "img_337700.jpg",
+      "img_369469.jpg",
+      "img_540343.jpg",
+      "img_61951.jpg",
+      "img_642784.jpg"
+    ],
+    "pairwise_sift_matches": [
+      {
+        "img1": "img_337700.jpg",
+        "img2": "img_369469.jpg",
+        "sift_matches": 139
+      },
+      {
+        "img1": "img_337700.jpg",
+        "img2": "img_540343.jpg",
+        "sift_matches": 135
+      },
+      {
+        "img1": "img_337700.jpg",
+        "img2": "img_61951.jpg",
+        "sift_matches": 104
+      },
+      {
+        "img1": "img_337700.jpg",
+        "img2": "img_642784.jpg",
+        "sift_matches": 167
+      },
+      {
+        "img1": "img_369469.jpg",
+        "img2": "img_540343.jpg",
+        "sift_matches": 68
+      },
+      {
+        "img1": "img_369469.jpg",
+        "img2": "img_61951.jpg",
+        "sift_matches": 62
+      },
+      {
+        "img1": "img_369469.jpg",
+        "img2": "img_642784.jpg",
+        "sift_matches": 88
+      },
+      {
+        "img1": "img_540343.jpg",
+        "img2": "img_61951.jpg",
+        "sift_matches": 63
+      },
+      {
+        "img1": "img_540343.jpg",
+        "img2": "img_642784.jpg",
+        "sift_matches": 78
+      },
+      {
+        "img1": "img_61951.jpg",
+        "img2": "img_642784.jpg",
+        "sift_matches": 61
+      }
+    ]
+  },
+  "Design_016": {
+    "design_id": "Design_016",
+    "image_count": 5,
+    "is_singleton": false,
+    "images": [
+      "img_364907.jpg",
+      "img_638094.jpg",
+      "img_828414.jpg",
+      "img_85121.jpg",
+      "img_892336.jpg"
+    ],
+    "pairwise_sift_matches": [
+      {
+        "img1": "img_364907.jpg",
+        "img2": "img_638094.jpg",
+        "sift_matches": 71
+      },
+      {
+        "img1": "img_364907.jpg",
+        "img2": "img_828414.jpg",
+        "sift_matches": 68
+      },
+      {
+        "img1": "img_364907.jpg",
+        "img2": "img_85121.jpg",
+        "sift_matches": 75
+      },
+      {
+        "img1": "img_364907.jpg",
+        "img2": "img_892336.jpg",
+        "sift_matches": 49
+      },
+      {
+        "img1": "img_638094.jpg",
+        "img2": "img_828414.jpg",
+        "sift_matches": 26
+      },
+      {
+        "img1": "img_638094.jpg",
+        "img2": "img_85121.jpg",
+        "sift_matches": 31
+      },
+      {
+        "img1": "img_638094.jpg",
+        "img2": "img_892336.jpg",
+        "sift_matches": 25
+      },
+      {
+        "img1": "img_828414.jpg",
+        "img2": "img_85121.jpg",
+        "sift_matches": 23
+      },
+      {
+        "img1": "img_828414.jpg",
+        "img2": "img_892336.jpg",
+        "sift_matches": 25
+      },
+      {
+        "img1": "img_85121.jpg",
+        "img2": "img_892336.jpg",
+        "sift_matches": 24
+      }
+    ]
+  },
+  "Design_017": {
+    "design_id": "Design_017",
+    "image_count": 5,
+    "is_singleton": false,
+    "images": [
+      "img_54863.jpg",
+      "img_578081.jpg",
+      "img_688109.jpg",
+      "img_746861.jpg",
+      "img_966256.jpg"
+    ],
+    "pairwise_sift_matches": [
+      {
+        "img1": "img_54863.jpg",
+        "img2": "img_578081.jpg",
+        "sift_matches": 152
+      },
+      {
+        "img1": "img_54863.jpg",
+        "img2": "img_688109.jpg",
+        "sift_matches": 129
+      },
+      {
+        "img1": "img_54863.jpg",
+        "img2": "img_746861.jpg",
+        "sift_matches": 171
+      },
+      {
+        "img1": "img_54863.jpg",
+        "img2": "img_966256.jpg",
+        "sift_matches": 133
+      },
+      {
+        "img1": "img_578081.jpg",
+        "img2": "img_688109.jpg",
+        "sift_matches": 65
+      },
+      {
+        "img1": "img_578081.jpg",
+        "img2": "img_746861.jpg",
+        "sift_matches": 77
+      },
+      {
+        "img1": "img_578081.jpg",
+        "img2": "img_966256.jpg",
+        "sift_matches": 72
+      },
+      {
+        "img1": "img_688109.jpg",
+        "img2": "img_746861.jpg",
+        "sift_matches": 62
+      },
+      {
+        "img1": "img_688109.jpg",
+        "img2": "img_966256.jpg",
+        "sift_matches": 59
+      },
+      {
+        "img1": "img_746861.jpg",
+        "img2": "img_966256.jpg",
+        "sift_matches": 58
+      }
+    ]
+  },
+  "Design_018": {
+    "design_id": "Design_018",
+    "image_count": 4,
+    "is_singleton": false,
+    "images": [
+      "h_img_31665.jpg",
+      "img_120749.jpg",
+      "img_48825.jpg",
+      "img_678178.jpg"
+    ],
+    "pairwise_sift_matches": [
+      {
+        "img1": "h_img_31665.jpg",
+        "img2": "img_120749.jpg",
+        "sift_matches": 59
+      },
+      {
+        "img1": "h_img_31665.jpg",
+        "img2": "img_48825.jpg",
+        "sift_matches": 9
+      },
+      {
+        "img1": "h_img_31665.jpg",
+        "img2": "img_678178.jpg",
+        "sift_matches": 2
+      },
+      {
+        "img1": "img_120749.jpg",
+        "img2": "img_48825.jpg",
+        "sift_matches": 229
+      },
+      {
+        "img1": "img_120749.jpg",
+        "img2": "img_678178.jpg",
+        "sift_matches": 221
+      },
+      {
+        "img1": "img_48825.jpg",
+        "img2": "img_678178.jpg",
+        "sift_matches": 10
+      }
+    ]
+  },
+  "Design_019": {
+    "design_id": "Design_019",
+    "image_count": 4,
+    "is_singleton": false,
+    "images": [
+      "img_130255.jpg",
+      "img_307484.jpg",
+      "img_325344.jpg",
+      "img_478598.jpg"
+    ],
+    "pairwise_sift_matches": [
+      {
+        "img1": "img_130255.jpg",
+        "img2": "img_307484.jpg",
+        "sift_matches": 55
+      },
+      {
+        "img1": "img_130255.jpg",
+        "img2": "img_325344.jpg",
+        "sift_matches": 13
+      },
+      {
+        "img1": "img_130255.jpg",
+        "img2": "img_478598.jpg",
+        "sift_matches": 115
+      },
+      {
+        "img1": "img_307484.jpg",
+        "img2": "img_325344.jpg",
+        "sift_matches": 4
+      },
+      {
+        "img1": "img_307484.jpg",
+        "img2": "img_478598.jpg",
+        "sift_matches": 23
+      },
+      {
+        "img1": "img_325344.jpg",
+        "img2": "img_478598.jpg",
+        "sift_matches": 100
+      }
+    ]
+  },
+  "Design_020": {
+    "design_id": "Design_020",
+    "image_count": 4,
+    "is_singleton": false,
+    "images": [
+      "img_48234.jpg",
+      "img_526657.jpg",
+      "img_5447.jpg",
+      "img_897203.jpg"
+    ],
+    "pairwise_sift_matches": [
+      {
+        "img1": "img_48234.jpg",
+        "img2": "img_526657.jpg",
+        "sift_matches": 17
+      },
+      {
+        "img1": "img_48234.jpg",
+        "img2": "img_5447.jpg",
+        "sift_matches": 142
+      },
+      {
+        "img1": "img_48234.jpg",
+        "img2": "img_897203.jpg",
+        "sift_matches": 23
+      },
+      {
+        "img1": "img_526657.jpg",
+        "img2": "img_5447.jpg",
+        "sift_matches": 17
+      },
+      {
+        "img1": "img_526657.jpg",
+        "img2": "img_897203.jpg",
+        "sift_matches": 48
+      },
+      {
+        "img1": "img_5447.jpg",
+        "img2": "img_897203.jpg",
+        "sift_matches": 126
+      }
+    ]
+  },
+  "Design_021": {
+    "design_id": "Design_021",
+    "image_count": 3,
+    "is_singleton": false,
+    "images": [
+      "h_img_149526.jpg",
+      "img_411083.jpg",
+      "img_738703.jpg"
+    ],
+    "pairwise_sift_matches": [
+      {
+        "img1": "h_img_149526.jpg",
+        "img2": "img_411083.jpg",
+        "sift_matches": 0
+      },
+      {
+        "img1": "h_img_149526.jpg",
+        "img2": "img_738703.jpg",
+        "sift_matches": 73
+      },
+      {
+        "img1": "img_411083.jpg",
+        "img2": "img_738703.jpg",
+        "sift_matches": 49
+      }
+    ]
+  },
+  "Design_022": {
+    "design_id": "Design_022",
+    "image_count": 3,
+    "is_singleton": false,
+    "images": [
+      "h_img_593526.jpg",
+      "img_257108.jpg",
+      "img_845893.jpg"
+    ],
+    "pairwise_sift_matches": [
+      {
+        "img1": "h_img_593526.jpg",
+        "img2": "img_257108.jpg",
+        "sift_matches": 234
+      },
+      {
+        "img1": "h_img_593526.jpg",
+        "img2": "img_845893.jpg",
+        "sift_matches": 0
+      },
+      {
+        "img1": "img_257108.jpg",
+        "img2": "img_845893.jpg",
+        "sift_matches": 91
+      }
+    ]
+  },
+  "Design_023": {
+    "design_id": "Design_023",
+    "image_count": 3,
+    "is_singleton": false,
+    "images": [
+      "img_246854.jpg",
+      "img_2469.jpg",
+      "img_804542.jpg"
+    ],
+    "pairwise_sift_matches": [
+      {
+        "img1": "img_246854.jpg",
+        "img2": "img_2469.jpg",
+        "sift_matches": 40
+      },
+      {
+        "img1": "img_246854.jpg",
+        "img2": "img_804542.jpg",
+        "sift_matches": 38
+      },
+      {
+        "img1": "img_2469.jpg",
+        "img2": "img_804542.jpg",
+        "sift_matches": 17
+      }
+    ]
+  },
+  "Design_024": {
+    "design_id": "Design_024",
+    "image_count": 3,
+    "is_singleton": false,
+    "images": [
+      "img_314642.jpg",
+      "img_55880.jpg",
+      "img_649782.jpg"
+    ],
+    "pairwise_sift_matches": [
+      {
+        "img1": "img_314642.jpg",
+        "img2": "img_55880.jpg",
+        "sift_matches": 5
+      },
+      {
+        "img1": "img_314642.jpg",
+        "img2": "img_649782.jpg",
+        "sift_matches": 65
+      },
+      {
+        "img1": "img_55880.jpg",
+        "img2": "img_649782.jpg",
+        "sift_matches": 225
+      }
+    ]
+  },
+  "Design_025": {
+    "design_id": "Design_025",
+    "image_count": 3,
+    "is_singleton": false,
+    "images": [
+      "img_614731.jpg",
+      "img_635738.jpg",
+      "img_68235.jpg"
+    ],
+    "pairwise_sift_matches": [
+      {
+        "img1": "img_614731.jpg",
+        "img2": "img_635738.jpg",
+        "sift_matches": 210
+      },
+      {
+        "img1": "img_614731.jpg",
+        "img2": "img_68235.jpg",
+        "sift_matches": 1
+      },
+      {
+        "img1": "img_635738.jpg",
+        "img2": "img_68235.jpg",
+        "sift_matches": 117
+      }
+    ]
+  },
+  "Design_026": {
+    "design_id": "Design_026",
+    "image_count": 2,
+    "is_singleton": false,
+    "images": [
+      "img_180214.jpg",
+      "img_822729.jpg"
+    ],
+    "pairwise_sift_matches": [
+      {
+        "img1": "img_180214.jpg",
+        "img2": "img_822729.jpg",
+        "sift_matches": 39
+      }
+    ]
+  },
+  "Design_027": {
+    "design_id": "Design_027",
+    "image_count": 2,
+    "is_singleton": false,
+    "images": [
+      "img_477984.jpg",
+      "img_648754.jpg"
+    ],
+    "pairwise_sift_matches": [
+      {
+        "img1": "img_477984.jpg",
+        "img2": "img_648754.jpg",
+        "sift_matches": 104
+      }
+    ]
+  },
+  "Design_028": {
+    "design_id": "Design_028",
+    "image_count": 2,
+    "is_singleton": false,
+    "images": [
+      "img_57969.jpg",
+      "img_982056.jpg"
+    ],
+    "pairwise_sift_matches": [
+      {
+        "img1": "img_57969.jpg",
+        "img2": "img_982056.jpg",
+        "sift_matches": 65
+      }
+    ]
+  },
+  "Design_029": {
+    "design_id": "Design_029",
+    "image_count": 1,
+    "is_singleton": true,
+    "images": [
+      "img_106019.jpg"
+    ],
+    "pairwise_sift_matches": []
+  },
+  "Design_030": {
+    "design_id": "Design_030",
+    "image_count": 1,
+    "is_singleton": true,
+    "images": [
+      "img_142355.jpg"
+    ],
+    "pairwise_sift_matches": []
+  },
+  "Design_031": {
+    "design_id": "Design_031",
+    "image_count": 1,
+    "is_singleton": true,
+    "images": [
+      "img_172154.jpg"
+    ],
+    "pairwise_sift_matches": []
+  },
+  "Design_032": {
+    "design_id": "Design_032",
+    "image_count": 1,
+    "is_singleton": true,
+    "images": [
+      "img_187840.jpg"
+    ],
+    "pairwise_sift_matches": []
+  },
+  "Design_033": {
+    "design_id": "Design_033",
+    "image_count": 1,
+    "is_singleton": true,
+    "images": [
+      "img_232079.jpg"
+    ],
+    "pairwise_sift_matches": []
+  },
+  "Design_034": {
+    "design_id": "Design_034",
+    "image_count": 1,
+    "is_singleton": true,
+    "images": [
+      "img_259893.jpg"
+    ],
+    "pairwise_sift_matches": []
+  },
+  "Design_035": {
+    "design_id": "Design_035",
+    "image_count": 1,
+    "is_singleton": true,
+    "images": [
+      "img_261444.jpg"
+    ],
+    "pairwise_sift_matches": []
+  },
+  "Design_036": {
+    "design_id": "Design_036",
+    "image_count": 1,
+    "is_singleton": true,
+    "images": [
+      "img_316470.jpg"
+    ],
+    "pairwise_sift_matches": []
+  },
+  "Design_037": {
+    "design_id": "Design_037",
+    "image_count": 1,
+    "is_singleton": true,
+    "images": [
+      "img_32852.jpg"
+    ],
+    "pairwise_sift_matches": []
+  },
+  "Design_038": {
+    "design_id": "Design_038",
+    "image_count": 1,
+    "is_singleton": true,
+    "images": [
+      "img_346343.jpg"
+    ],
+    "pairwise_sift_matches": []
+  },
+  "Design_039": {
+    "design_id": "Design_039",
+    "image_count": 1,
+    "is_singleton": true,
+    "images": [
+      "img_357974.jpg"
+    ],
+    "pairwise_sift_matches": []
+  },
+  "Design_040": {
+    "design_id": "Design_040",
+    "image_count": 1,
+    "is_singleton": true,
+    "images": [
+      "img_366604.jpg"
+    ],
+    "pairwise_sift_matches": []
+  },
+  "Design_041": {
+    "design_id": "Design_041",
+    "image_count": 1,
+    "is_singleton": true,
+    "images": [
+      "img_381577.jpg"
+    ],
+    "pairwise_sift_matches": []
+  },
+  "Design_042": {
+    "design_id": "Design_042",
+    "image_count": 1,
+    "is_singleton": true,
+    "images": [
+      "img_393000.jpg"
+    ],
+    "pairwise_sift_matches": []
+  },
+  "Design_043": {
+    "design_id": "Design_043",
+    "image_count": 1,
+    "is_singleton": true,
+    "images": [
+      "img_403289.jpg"
+    ],
+    "pairwise_sift_matches": []
+  },
+  "Design_044": {
+    "design_id": "Design_044",
+    "image_count": 1,
+    "is_singleton": true,
+    "images": [
+      "img_413996.jpg"
+    ],
+    "pairwise_sift_matches": []
+  },
+  "Design_045": {
+    "design_id": "Design_045",
+    "image_count": 1,
+    "is_singleton": true,
+    "images": [
+      "img_433250.jpg"
+    ],
+    "pairwise_sift_matches": []
+  },
+  "Design_046": {
+    "design_id": "Design_046",
+    "image_count": 1,
+    "is_singleton": true,
+    "images": [
+      "img_450212.jpg"
+    ],
+    "pairwise_sift_matches": []
+  },
+  "Design_047": {
+    "design_id": "Design_047",
+    "image_count": 1,
+    "is_singleton": true,
+    "images": [
+      "img_458235.jpg"
+    ],
+    "pairwise_sift_matches": []
+  },
+  "Design_048": {
+    "design_id": "Design_048",
+    "image_count": 1,
+    "is_singleton": true,
+    "images": [
+      "img_475851.jpg"
+    ],
+    "pairwise_sift_matches": []
+  },
+  "Design_049": {
+    "design_id": "Design_049",
+    "image_count": 1,
+    "is_singleton": true,
+    "images": [
+      "img_529952.jpg"
+    ],
+    "pairwise_sift_matches": []
+  },
+  "Design_050": {
+    "design_id": "Design_050",
+    "image_count": 1,
+    "is_singleton": true,
+    "images": [
+      "img_568910.jpg"
+    ],
+    "pairwise_sift_matches": []
+  },
+  "Design_051": {
+    "design_id": "Design_051",
+    "image_count": 1,
+    "is_singleton": true,
+    "images": [
+      "img_583723.jpg"
+    ],
+    "pairwise_sift_matches": []
+  },
+  "Design_052": {
+    "design_id": "Design_052",
+    "image_count": 1,
+    "is_singleton": true,
+    "images": [
+      "img_586052.jpg"
+    ],
+    "pairwise_sift_matches": []
+  },
+  "Design_053": {
+    "design_id": "Design_053",
+    "image_count": 1,
+    "is_singleton": true,
+    "images": [
+      "img_586537.jpg"
+    ],
+    "pairwise_sift_matches": []
+  },
+  "Design_054": {
+    "design_id": "Design_054",
+    "image_count": 1,
+    "is_singleton": true,
+    "images": [
+      "img_590289.jpg"
+    ],
+    "pairwise_sift_matches": []
+  },
+  "Design_055": {
+    "design_id": "Design_055",
+    "image_count": 1,
+    "is_singleton": true,
+    "images": [
+      "img_591020.jpg"
+    ],
+    "pairwise_sift_matches": []
+  },
+  "Design_056": {
+    "design_id": "Design_056",
+    "image_count": 1,
+    "is_singleton": true,
+    "images": [
+      "img_632748.jpg"
+    ],
+    "pairwise_sift_matches": []
+  },
+  "Design_057": {
+    "design_id": "Design_057",
+    "image_count": 1,
+    "is_singleton": true,
+    "images": [
+      "img_635336.jpg"
+    ],
+    "pairwise_sift_matches": []
+  },
+  "Design_058": {
+    "design_id": "Design_058",
+    "image_count": 1,
+    "is_singleton": true,
+    "images": [
+      "img_636938.jpg"
+    ],
+    "pairwise_sift_matches": []
+  },
+  "Design_059": {
+    "design_id": "Design_059",
+    "image_count": 1,
+    "is_singleton": true,
+    "images": [
+      "img_643949.jpg"
+    ],
+    "pairwise_sift_matches": []
+  },
+  "Design_060": {
+    "design_id": "Design_060",
+    "image_count": 1,
+    "is_singleton": true,
+    "images": [
+      "img_669675.jpg"
+    ],
+    "pairwise_sift_matches": []
+  },
+  "Design_061": {
+    "design_id": "Design_061",
+    "image_count": 1,
+    "is_singleton": true,
+    "images": [
+      "img_677180.jpg"
+    ],
+    "pairwise_sift_matches": []
+  },
+  "Design_062": {
+    "design_id": "Design_062",
+    "image_count": 1,
+    "is_singleton": true,
+    "images": [
+      "img_710186.jpg"
+    ],
+    "pairwise_sift_matches": []
+  },
+  "Design_063": {
+    "design_id": "Design_063",
+    "image_count": 1,
+    "is_singleton": true,
+    "images": [
+      "img_726717.jpg"
+    ],
+    "pairwise_sift_matches": []
+  },
+  "Design_064": {
+    "design_id": "Design_064",
+    "image_count": 1,
+    "is_singleton": true,
+    "images": [
+      "img_770334.jpg"
+    ],
+    "pairwise_sift_matches": []
+  },
+  "Design_065": {
+    "design_id": "Design_065",
+    "image_count": 1,
+    "is_singleton": true,
+    "images": [
+      "img_776505.jpg"
+    ],
+    "pairwise_sift_matches": []
+  },
+  "Design_066": {
+    "design_id": "Design_066",
+    "image_count": 1,
+    "is_singleton": true,
+    "images": [
+      "img_801823.jpg"
+    ],
+    "pairwise_sift_matches": []
+  },
+  "Design_067": {
+    "design_id": "Design_067",
+    "image_count": 1,
+    "is_singleton": true,
+    "images": [
+      "img_808059.jpg"
+    ],
+    "pairwise_sift_matches": []
+  },
+  "Design_068": {
+    "design_id": "Design_068",
+    "image_count": 1,
+    "is_singleton": true,
+    "images": [
+      "img_86754.jpg"
+    ],
+    "pairwise_sift_matches": []
+  },
+  "Design_069": {
+    "design_id": "Design_069",
+    "image_count": 1,
+    "is_singleton": true,
+    "images": [
+      "img_889324.jpg"
+    ],
+    "pairwise_sift_matches": []
+  },
+  "Design_070": {
+    "design_id": "Design_070",
+    "image_count": 1,
+    "is_singleton": true,
+    "images": [
+      "img_895368.jpg"
+    ],
+    "pairwise_sift_matches": []
+  },
+  "Design_071": {
+    "design_id": "Design_071",
+    "image_count": 1,
+    "is_singleton": true,
+    "images": [
+      "img_94825.jpg"
+    ],
+    "pairwise_sift_matches": []
+  },
+  "Design_072": {
+    "design_id": "Design_072",
+    "image_count": 1,
+    "is_singleton": true,
+    "images": [
+      "img_981759.jpg"
+    ],
+    "pairwise_sift_matches": []
+  }
+}

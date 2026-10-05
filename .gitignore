@@ -1,0 +1,27 @@
+# Python cache / build
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+__MACOSX/
+
+# Model checkpoints / large generated weights
+*.pth
+*.pt
+*.ckpt
+
+# Logs / temporary files
+*.log
+*.tmp
+.ipynb_checkpoints/
